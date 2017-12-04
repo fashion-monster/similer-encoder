@@ -9,6 +9,7 @@
 from keras.layers import Input, Dense, Conv2D, MaxPooling2D, UpSampling2D
 from keras.models import Model
 from keras import backend as K
+import tensorflow as tf
 
 input_img = Input(shape=(604,604,3))  # adapt this if using `channels_first` image data format
 # input_img = Input(shape=(28, 28, 1))  # adapt this if using `channels_first` image data format
@@ -69,17 +70,13 @@ def reshape(image):
     Return:
         reshaped: reshaped images
     """
-    import tensorflow as tf
-    import tensorflow.contrib.eager as tfe
 
-    print(tf.__version__)
-    tfe.enable_eager_execution()
     max_size = tf.reduce_max(tf.shape(image))
     new_height = 604
     new_width = 604
 
     reshaped = tf.image.resize_images(tf.image.resize_image_with_crop_or_pad(image, max_size, max_size),[new_height, new_width])
-    return reshaped
+    return reshaped.numpy()
 
 def size_decision(image):
     """
@@ -101,23 +98,25 @@ def helper():
     train = os.listdir('train')
     valid = os.listdir('valid')
     
-    t_img_path = ['train/'+x for x in train]
-    v_img_path = ['valid/'+x for x in valid]
+    t_img_path = ['train/'+x for x in train if x != '.DS_Store']
+    v_img_path = ['valid/'+x for x in valid if x != '.DS_Store']
     
     t_img = []
     for x in t_img_path:
         x = load_img(x)
         x = img_to_array(x)
-        x = reshape(x)
-        t_img.append(x)
+        if x.shape == (604,604,3):
+            t_img.append(x)
+    t_img = np.asarray(t_img)
+    print(t_img.shape)
         
     v_img = []
     for x in v_img_path:
         x = load_img(x)
         x = img_to_array(x)
-        x = reshape(x)
         v_img.append(x)
-        
+    print(type(v_img))
+    
     return np.asarray(t_img), np.asarray(v_img)
 
 
@@ -134,10 +133,12 @@ import numpy as np
 # (x_train, _), (x_test, _) = mnist.load_data()
 
 x_train, x_test = helper()
-for x in x_train:
-    print x.shape
-x_train = x_train.astype('float32') / 255.
-x_test = x_test.astype('float32') / 255.
+setX = [x.shape for x in x_train]
+print(setX)
+print(type(x_train))
+
+x_train = x_train.astype(np.float32) / 255.
+x_test = x_test.astype(np.float32) / 255.
 # x_train = np.reshape(x_train, (len(x_train), 28, 28, 1))  # adapt this if using `channels_first` image data format
 # x_test = np.reshape(x_test, (len(x_test), 28, 28, 1))  # adapt this if using `channels_first` image data format
 
@@ -151,7 +152,7 @@ x_test = np.reshape(x_test, (len(x_test), 604, 604, 3))  # adapt this if using `
 from keras.callbacks import TensorBoard
 
 autoencoder.fit(x_train, x_train,
-                epochs=2000,
+                epochs=10,
                 batch_size=12,
                 shuffle=True,
                 validation_data=(x_test, x_test),
@@ -273,10 +274,4 @@ def add():
 def subtract():
     return lambda x,y: x-y
 add()(add()(a,b),c)
-
-
-# In[ ]:
-
-
-
 

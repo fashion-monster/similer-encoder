@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="887eaba9-40c7-4760-b707-3ace2e6979b9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/train/Lenna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/train/Lenna1.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/10192577B_38_D_215.jpg" afterPath="$PROJECT_DIR$/train/10192577B_38_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/10229514_35_D_215.jpg" afterPath="$PROJECT_DIR$/train/10229514_35_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/10328510B_18_D_215.jpg" afterPath="$PROJECT_DIR$/train/10328510B_18_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/10393991B_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/10393991B_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/10411944B_16_D_215.jpg" afterPath="$PROJECT_DIR$/train/10411944B_16_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/10465269B_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/10465269B_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/10585970_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/10585970_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11061652B_21_D_215.jpg" afterPath="$PROJECT_DIR$/train/11061652B_21_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11077966_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/11077966_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11092478B_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/11092478B_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11181160_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/11181160_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11200749B_14_D_215.jpg" afterPath="$PROJECT_DIR$/train/11200749B_14_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11369848B_160_D_215.jpg" afterPath="$PROJECT_DIR$/train/11369848B_160_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11435840B_18_D_215.jpg" afterPath="$PROJECT_DIR$/train/11435840B_18_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11453459B_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/11453459B_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11486098_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/11486098_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11667312B_16_D_215.jpg" afterPath="$PROJECT_DIR$/train/11667312B_16_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11668136_18_D_215.jpg" afterPath="$PROJECT_DIR$/train/11668136_18_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11693293B_55_D_215.jpg" afterPath="$PROJECT_DIR$/train/11693293B_55_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11709455B_14_D_215.jpg" afterPath="$PROJECT_DIR$/train/11709455B_14_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11832938B_18_D_215.jpg" afterPath="$PROJECT_DIR$/train/11832938B_18_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11833040B_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/11833040B_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11884730_21_D_215.jpg" afterPath="$PROJECT_DIR$/train/11884730_21_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11926807_21_D_215.jpg" afterPath="$PROJECT_DIR$/train/11926807_21_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11956435B_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/11956435B_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/11988780B_16_D_215.jpg" afterPath="$PROJECT_DIR$/train/11988780B_16_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12062636B_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/12062636B_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12063825_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/12063825_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12116370B_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/12116370B_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12157770B_14_D_215.jpg" afterPath="$PROJECT_DIR$/train/12157770B_14_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12190655_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/12190655_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12191713_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/12191713_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12262004B_34_D_215.jpg" afterPath="$PROJECT_DIR$/train/12262004B_34_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12262126B_14_D_215.jpg" afterPath="$PROJECT_DIR$/train/12262126B_14_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12296559_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/12296559_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12426485_21_D_215.jpg" afterPath="$PROJECT_DIR$/train/12426485_21_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12427596_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/12427596_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12459561_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/12459561_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12606836B_14_D_215.jpg" afterPath="$PROJECT_DIR$/train/12606836B_14_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12637392_103_D_215.jpg" afterPath="$PROJECT_DIR$/train/12637392_103_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12638245B_14_D_215.jpg" afterPath="$PROJECT_DIR$/train/12638245B_14_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12786399_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/12786399_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12786995_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/12786995_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/12991414B_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/12991414B_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/13007557_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/13007557_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20140926152737493_215.jpg" afterPath="$PROJECT_DIR$/train/20140926152737493_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20141229160037036_215.jpg" afterPath="$PROJECT_DIR$/train/20141229160037036_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20150314204513766_215.jpg" afterPath="$PROJECT_DIR$/train/20150314204513766_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20150521192339216_215.jpg" afterPath="$PROJECT_DIR$/train/20150521192339216_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20150629055649139_215.jpg" afterPath="$PROJECT_DIR$/train/20150629055649139_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20150709045047435_215.jpg" afterPath="$PROJECT_DIR$/train/20150709045047435_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20151021205221556_215.jpg" afterPath="$PROJECT_DIR$/train/20151021205221556_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20151031214833679_215.jpg" afterPath="$PROJECT_DIR$/train/20151031214833679_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20151102090807543_215.jpg" afterPath="$PROJECT_DIR$/train/20151102090807543_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160126173237090_215.jpg" afterPath="$PROJECT_DIR$/train/20160126173237090_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160128173245050_215.jpg" afterPath="$PROJECT_DIR$/train/20160128173245050_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160202120615295_215.jpg" afterPath="$PROJECT_DIR$/train/20160202120615295_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160213022444102_215.jpg" afterPath="$PROJECT_DIR$/train/20160213022444102_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160227154411120_215.jpg" afterPath="$PROJECT_DIR$/train/20160227154411120_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160310012426932_215.jpg" afterPath="$PROJECT_DIR$/train/20160310012426932_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160322190617132_215.jpg" afterPath="$PROJECT_DIR$/train/20160322190617132_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160325031301096_215.jpg" afterPath="$PROJECT_DIR$/train/20160325031301096_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160405072444061_215.jpg" afterPath="$PROJECT_DIR$/train/20160405072444061_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160410204308159_215.jpg" afterPath="$PROJECT_DIR$/train/20160410204308159_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160413012400269_215.jpg" afterPath="$PROJECT_DIR$/train/20160413012400269_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160417132323399_215.jpg" afterPath="$PROJECT_DIR$/train/20160417132323399_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160419012839936_215.jpg" afterPath="$PROJECT_DIR$/train/20160419012839936_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160424200343204_215.jpg" afterPath="$PROJECT_DIR$/train/20160424200343204_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160429114429503_215.jpg" afterPath="$PROJECT_DIR$/train/20160429114429503_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160503121029758_215.jpg" afterPath="$PROJECT_DIR$/train/20160503121029758_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160507110105497_215.jpg" afterPath="$PROJECT_DIR$/train/20160507110105497_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160509230201627_215.jpg" afterPath="$PROJECT_DIR$/train/20160509230201627_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160516184642095_215.jpg" afterPath="$PROJECT_DIR$/train/20160516184642095_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160516184819319_215.jpg" afterPath="$PROJECT_DIR$/train/20160516184819319_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160518092353424_215.jpg" afterPath="$PROJECT_DIR$/train/20160518092353424_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160530131832799_215.jpg" afterPath="$PROJECT_DIR$/train/20160530131832799_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160530142535016_215.jpg" afterPath="$PROJECT_DIR$/train/20160530142535016_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160530194843450_215.jpg" afterPath="$PROJECT_DIR$/train/20160530194843450_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160530202708945_215.jpg" afterPath="$PROJECT_DIR$/train/20160530202708945_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160601112342746_215.jpg" afterPath="$PROJECT_DIR$/train/20160601112342746_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160602171707483_215.jpg" afterPath="$PROJECT_DIR$/train/20160602171707483_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160602171941914_215.jpg" afterPath="$PROJECT_DIR$/train/20160602171941914_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160602180440420_215.jpg" afterPath="$PROJECT_DIR$/train/20160602180440420_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160603114927172_215.jpg" afterPath="$PROJECT_DIR$/train/20160603114927172_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160604102548843_215.jpg" afterPath="$PROJECT_DIR$/train/20160604102548843_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160604112145070_215.jpg" afterPath="$PROJECT_DIR$/train/20160604112145070_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160604133933553_215.jpg" afterPath="$PROJECT_DIR$/train/20160604133933553_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160604142631418_215.jpg" afterPath="$PROJECT_DIR$/train/20160604142631418_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160604142742909_215.jpg" afterPath="$PROJECT_DIR$/train/20160604142742909_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160604210029393_215.jpg" afterPath="$PROJECT_DIR$/train/20160604210029393_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160604215150097_215.jpg" afterPath="$PROJECT_DIR$/train/20160604215150097_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160605072411857_215.jpg" afterPath="$PROJECT_DIR$/train/20160605072411857_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160605081429166_215.jpg" afterPath="$PROJECT_DIR$/train/20160605081429166_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160605082021723_215.jpg" afterPath="$PROJECT_DIR$/train/20160605082021723_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160606124537440_215.jpg" afterPath="$PROJECT_DIR$/train/20160606124537440_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160607010741563_215.jpg" afterPath="$PROJECT_DIR$/train/20160607010741563_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160607060817762_215.jpg" afterPath="$PROJECT_DIR$/train/20160607060817762_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160608020349635_215.jpg" afterPath="$PROJECT_DIR$/train/20160608020349635_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160608024404213_215.jpg" afterPath="$PROJECT_DIR$/train/20160608024404213_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160608151702980_215.jpg" afterPath="$PROJECT_DIR$/train/20160608151702980_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160608161524951_215.jpg" afterPath="$PROJECT_DIR$/train/20160608161524951_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160608184654771_215.jpg" afterPath="$PROJECT_DIR$/train/20160608184654771_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160609185934928_215.jpg" afterPath="$PROJECT_DIR$/train/20160609185934928_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160609225235972_215.jpg" afterPath="$PROJECT_DIR$/train/20160609225235972_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160610143809086_215.jpg" afterPath="$PROJECT_DIR$/train/20160610143809086_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160611153237880_215.jpg" afterPath="$PROJECT_DIR$/train/20160611153237880_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160612083957088_215.jpg" afterPath="$PROJECT_DIR$/train/20160612083957088_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160612161757434_215.jpg" afterPath="$PROJECT_DIR$/train/20160612161757434_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160612161818727_215.jpg" afterPath="$PROJECT_DIR$/train/20160612161818727_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160612222239021_215.jpg" afterPath="$PROJECT_DIR$/train/20160612222239021_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160613224809634_215.jpg" afterPath="$PROJECT_DIR$/train/20160613224809634_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160619124225877_215.jpg" afterPath="$PROJECT_DIR$/train/20160619124225877_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160619124629041_215.jpg" afterPath="$PROJECT_DIR$/train/20160619124629041_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160619140655624_215.jpg" afterPath="$PROJECT_DIR$/train/20160619140655624_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160619211733608_215.jpg" afterPath="$PROJECT_DIR$/train/20160619211733608_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160621135851259_215.jpg" afterPath="$PROJECT_DIR$/train/20160621135851259_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160621232254549_215.jpg" afterPath="$PROJECT_DIR$/train/20160621232254549_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160621232343436_215.jpg" afterPath="$PROJECT_DIR$/train/20160621232343436_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160622183457159_215.jpg" afterPath="$PROJECT_DIR$/train/20160622183457159_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160623235311627_215.jpg" afterPath="$PROJECT_DIR$/train/20160623235311627_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160624063328606_215.jpg" afterPath="$PROJECT_DIR$/train/20160624063328606_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160626104610527_215.jpg" afterPath="$PROJECT_DIR$/train/20160626104610527_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20160628051903410_215.jpg" afterPath="$PROJECT_DIR$/train/20160628051903410_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20161029171355885_215.jpg" afterPath="$PROJECT_DIR$/train/20161029171355885_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20161101225512418_215.jpg" afterPath="$PROJECT_DIR$/train/20161101225512418_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/20170122234838473_215.jpg" afterPath="$PROJECT_DIR$/train/20170122234838473_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/2313745_18_D_215.jpg" afterPath="$PROJECT_DIR$/train/2313745_18_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/5805618B_33_D_215.jpg" afterPath="$PROJECT_DIR$/train/5805618B_33_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/6451284B_132_D_215.jpg" afterPath="$PROJECT_DIR$/train/6451284B_132_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/6694458B_20_D_215.jpg" afterPath="$PROJECT_DIR$/train/6694458B_20_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/6728181_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/6728181_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/6840379B_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/6840379B_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/6856645B_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/6856645B_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/6913717B_5_D_215.jpg" afterPath="$PROJECT_DIR$/train/6913717B_5_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/7032100B_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/7032100B_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/7115519B_1_D_215.jpg" afterPath="$PROJECT_DIR$/train/7115519B_1_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/7489412_1_d_215.jpg" afterPath="$PROJECT_DIR$/train/7489412_1_d_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/7569336B_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/7569336B_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/7731473_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/7731473_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/7815301B_33_D_215.jpg" afterPath="$PROJECT_DIR$/train/7815301B_33_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/7981462B_22_D_215.jpg" afterPath="$PROJECT_DIR$/train/7981462B_22_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/8000299B_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/8000299B_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/8073650_20_D_215.jpg" afterPath="$PROJECT_DIR$/train/8073650_20_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/8215860B_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/8215860B_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/8241971_34_D_215.jpg" afterPath="$PROJECT_DIR$/train/8241971_34_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/8288072B_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/8288072B_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/8330894_236_D_215.jpg" afterPath="$PROJECT_DIR$/train/8330894_236_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/8363117B_154_D_215.jpg" afterPath="$PROJECT_DIR$/train/8363117B_154_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/8375575B_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/8375575B_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/8787833_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/8787833_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/8788019B_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/8788019B_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/8907822B_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/8907822B_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/9199617B_18_D_215.jpg" afterPath="$PROJECT_DIR$/train/9199617B_18_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/9477654B_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/9477654B_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/9598145B_33_D_215.jpg" afterPath="$PROJECT_DIR$/train/9598145B_33_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/9651502B_8_D_215.jpg" afterPath="$PROJECT_DIR$/train/9651502B_8_D_215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autoencoder.ipynb" afterPath="$PROJECT_DIR$/autoencoder.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autoencoder.py" afterPath="$PROJECT_DIR$/autoencoder.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="autoencoder.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/autoencoder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="273" column="5" lean-forward="false" selection-start-line="273" selection-start-column="5" selection-end-line="273" selection-end-column="5" />
+              <folding>
+                <element signature="e#55#128#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/autoencoder.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="similer-encoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="similer-encoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ignore_missing_gitignore" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/train" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="887eaba9-40c7-4760-b707-3ace2e6979b9" name="Default" comment="" />
+      <created>1512379835901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512379835901</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/autoencoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="273" column="5" lean-forward="false" selection-start-line="273" selection-start-column="5" selection-end-line="273" selection-end-column="5" />
+          <folding>
+            <element signature="e#55#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
